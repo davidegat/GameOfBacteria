@@ -8,7 +8,7 @@ Windows Binary in English and Italian language both available in releases sectio
 
 # Bacteria vs. Antibiotics
 
-![Game Screenshot](/img/screenshot.png)
+![Game Screenshot](/img/screenshoten.png)
 
 ## Game Rules
 
