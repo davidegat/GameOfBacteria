@@ -16,14 +16,14 @@ Also sources in both language available.
 
    - They replicate during the game and are killed by antibiotics.
 
-**2. White cells are antibiotics. Administer them by pressing 'Antibiotico':**
+**2. White cells are antibiotics. Administer them by pressing 'Antibiotic' (or Enter key):**
 
    - You can treat infection only when it starts causing symptoms.
    - Antibiotics are depleted and must be administered regularly.
    - Patient dies if he gets too many antibiotics.
    - If antibiotics run out, bacteria become resistant.
 
-**3. You can cause resistance by pressing 'Resistenza':**
+**3. You can cause resistance by pressing 'Resistence' (or Space Key):**
 
    - Resistent bacteria require higher antibiotic doses.
    - They try not to be reached by antibiotics.
