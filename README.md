@@ -1,6 +1,8 @@
 # GameOfBacteria
 An educational simple game to show interaction between antbiotics and bacteria. Windows Binary available in releases.
 
+<code>git clone https://github.com/davidegat/GameOfBacteria.git</code>
+
 [**README IN ITALIANO**](#italiano)
 
 # Bacteria vs. Antibiotics
