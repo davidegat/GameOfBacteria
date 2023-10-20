@@ -28,9 +28,9 @@ The purpose of the software is to entertain and, at best, provide a fun way to u
 
 The simulations in this game are quite realistic but are still influenced by random events (for entertainment purposes). They may not always represent real treatment situations or real situations in general.
 
-It is the responsibility of the teacher, and an exercise for the student, to understand when the outcome of a game can be compared to real events to receive a stimulus to delve deeper.
+It is responsibility of the teacher, and an exercise for students, to understand when the outcome of a game can be compared to real events to receive a stimulus to delve deeper.
 
-The software developer does not assume responsibility for the accuracy of the medical information included.
+Software developer does not assume responsibility for the accuracy of the medical information included.
 
 The game can be a support for study but requires the presence and/or explanations of an expert teacher who can benefit from proposing simulations in the classroom.
 
@@ -44,14 +44,14 @@ Students approaching this game to gain knowledge must responsibly compare the me
 
 **2. White cells are antibiotics. Administer them by pressing 'Antibiotic':**
 
-   - You can treat the infection only when it starts causing symptoms.
+   - You can treat infection only when it starts causing symptoms.
    - Antibiotics are depleted and must be administered regularly.
-   - The patient dies if they take too many antibiotics.
+   - Patient dies if he gess too many antibiotics.
    - If antibiotics run out, bacteria become resistant.
 
-**3. You can cause resistance by pressing 'Resistance':**
+**3. You can cause resistance by pressing 'Resistenza':**
 
-   - Bacteria require higher antibiotic doses.
+   - Resistent bacteria require higher antibiotic doses.
    - They try not to be reached by antibiotics.
    - If a resistant bacterium dies, it deactivates an antibiotic molecule.
    - Deactivated antibiotics turn yellow and are destroyed.
@@ -60,41 +60,40 @@ Students approaching this game to gain knowledge must responsibly compare the me
 
 **4. Even if the patient is not infected with a resistant bacterium, you can encounter three levels of difficulty:**
 
-   - Easy: The person has a phenomenal immune system.
-   - Routine: The immune system works, but don't underestimate anything.
-   - Difficult: The person is immunosuppressed; the infection will be tough.
+   - Easy: patient has a phenomenal immune system.
+   - Routine: immune system works, but don't underestimate anything.
+   - Difficult: patient is immunosuppressed; infection will be tough.
 
 **5. Be mindful of time; these circumstances can make you lose points:**
 
-   - If treatment lasts too long, the patient may become depressed.
-   - The person may worsen and die with prolonged treatment.
-   - Fatigue could lead to errors in therapy.
+   - If treatment lasts too long, patient may become depressed.
+   - Patient may worsen and die with prolonged treatment.
+   - Long working hours and fatigue could lead you to errors in therapy.
 
 You must decide when to start treatment and how frequently to continue it.
 
 **Caution: Resistance requires more antibiotics, but you might kill the patient!**
-![Game Screenshot](game_screenshot.png)
 
 Bacteria will pass resistance through their plasmids.
 If resistance develops, you must have enough points to sustain the final challenge, which will be ONLY against resistant bacteria.
 
-A tip: your medical supervisor is breathing down your neck, waiting for your next mistake!
+Tip: your medical supervisor is breathing down your neck, waiting for your next mistake!
 
 ## Scoring
 
 **You receive points for:**
 
-   - Duration of the patient's life without symptoms.
+   - Duration of patient's life without symptoms.
    - Killing resistant and non-resistant bacteria.
    - Curing the disease.
 
 **Points are deducted for:**
 
-   - Endangering the patient.
+   - Endangering patient.
        - Causing resistance.
        - Risk of sepsis.
        - Overusing antibiotics.
-       - Taking too long to cure the person.
+       - Taking too long to cure patient.
        - Administering the wrong therapy: this happens if the treatment is too long (red cells).
    - Patient's death.
    - Antibiotic administration.
@@ -146,3 +145,75 @@ Il gioco può essere un supporto per lo studio, ma necessita della presenza e/o 
 Lo studente che si approccia a questo gioco per ricevere delle nozioni, deve responsabilmente confrontare le informazioni mediche presentate nel gioco con quelle di fonti accreditate o riconosciute.
 
 ## Regole del gioco
+
+**1. Le celle colorate sono batteri. Verdi, o viola se resistenti agli antibiotici:**
+
+   - Si duplicano durante il gioco e vengono uccisi dall'antibiotico.
+
+**2. Le celle bianche sono antibiotici. Somministrali premendo 'Antibiotico':**
+
+   - Puoi curare l'infezione solo quando inizia a causare sintomi.
+   - L'antibiotico viene eliminato, va somministrato regolarmente.
+   - Il paziente muore se assume troppi antibiotici.
+   - Se l'antibiotico finisce, i batteri diventano resistenti.
+
+**3. Puoi causare una resistenza premendo 'Resistenza':**
+
+   - I batteri necessitano maggiori dosi di antibiotico.
+   - Cercano di non farsi raggiungere dall'antibiotico.
+   - Se un battere resistente muore, disattiva una molecola di antibiotico.
+   - Gli antibiotici disattivati diventano gialli e vengono distrutti.
+   - Se somministri antibiotici per troppi giorni consecutivi, svilupperai una resistenza.
+   - Hai il 5% di possibilità di ricoverare un paziente con una resistenza, ma anche la possibilità di ricevere dei bonus casuali.
+
+**4. Anche se il paziente non è infetto da un battere resistente, puoi incontrare tre livelli di difficoltà:**
+
+   - Facile: La persona ha un sistema immunitario fenomenale!
+   - Routine: Il sistema immunitario funziona, ma non sottovalutare niente!
+   - Difficile: La persona è immunodepressa, l'infezione sarà tosta!
+
+**5. Fai attenzione al tempo; queste circostanze possono farti perdere punti:**
+
+   - Se la cura dura troppo, il paziente potrebbe deprimersi.
+   - La persona potrebbe anche peggiorare e morire, con una cura troppo lunga.
+   - La stanchezza potrebbe farti commettere errori nella terapia.
+
+Dovrai decidere quando iniziare la terapia e con che frequenza continuarla.
+
+**Attenzione: una resistenza richiede più antibiotici, ma potresti uccidere il paziente!**
+
+I batteri si passeranno la resistenza tramite i loro plasmidi.
+Se si sviluppa una resistenza, dovrai avere abbastanza punti per sostenere la sfida finale, che sarà SOLO contro batteri resistenti.
+
+Una dritta: il tuo responsabile medico ti è alle calcagna, aspetta solo il tuo ennesimo errore per licenziarti!
+
+## Punteggio
+
+**Si ricevono dei punti per:**
+
+   - Durata della vita del paziente senza sintomi.
+   - Uccisione batteri resistenti e non.
+   - Guarigione dalla malattia.
+
+**Vengono sottratti punti per:**
+
+   - Per la messa in pericolo del paziente.
+       - Se si causano resistenze.
+       - Se c'è il rischio di setticemia.
+       - Se si esagera con gli antibiotici.
+       - Si impiega troppo tempo a curare la persona.
+       - Somministrando la terapia sbagliata: succede se la cura è troppo lunga (celle rosse).
+   - Alla morte del paziente.
+   - Alla somministrazione dell'antibiotico.
+   - Ad ogni duplicazione di un battere resistente o meno.
+   - Se si viene licenziati dal responsabile medico.
+
+**Scorciatoie da tastiera:**
+
+   - INVIO: Somministra una dose di antibiotico.
+   - SPAZIO: Sviluppa una resistenza.
+   - ESC: Riavvia il gioco.
+
+Buona fortuna nella tua lotta contro l'infezione!
+
+©2023 Davide Nasato
