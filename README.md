@@ -1,5 +1,5 @@
 # GameOfBacteria
-An educational simple game to show interaction between antbiotics and bacteria.
+An educational simple game to show interaction between antbiotics and bacteria. Windows Binary available in releases.
 
 [**README IN ITALIANO**](#italiano)
 
@@ -114,7 +114,7 @@ Students approaching this game to gain knowledge must responsibly compare medica
 <a name="italiano"></a>
 
 # Batteri contro Antibiotici
-Un semplice gioco educazionale per mostrare l'interazione fra antibiotici e batteri.
+Un semplice gioco educazionale per mostrare l'interazione fra antibiotici e batteri. La versione per Windows è disponibile nelle releases.
 
 ![Game Screenshot](img/screenshot.png)
 
