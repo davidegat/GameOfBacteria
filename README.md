@@ -6,7 +6,7 @@ Certainly, here are the README files for your software in both English and Itali
 
 # Bacteria vs. Antibiotics
 
-![Game Screenshot](img/screenshot.png)
+![Game Screenshot](/img/screenshot.png)
 
 ## Disclaimer
 
