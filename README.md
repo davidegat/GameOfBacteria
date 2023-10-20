@@ -7,37 +7,6 @@ An educational simple game to show interaction between antbiotics and bacteria.
 
 ![Game Screenshot](/img/screenshot.png)
 
-## Disclaimer
-
-This software is provided "as is," without any express or implied warranties of its operation.
-
-Use of this software is at your own risk. Author assumes no responsibility for direct, indirect, incidental, or consequential damages resulting from the use, proper or improper, of this software.
-
-By using this software, you agree to be bound by the terms of this disclaimer.
-
-Source code of this software is distributed under the GPL-3.0 license. Audio effects, images and icons are excluded.
-[GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-Feel free to fork, improve, spread an translate this code as you want within the license.
-
-**Notes:**
-- Audio effects used in this software are from free sources, so they can be considered without a license or under a Fair Use license.
-- Music is generated with Beatoven.ai, under non exclusive music license ("Crabby Cream" - License: 224af568-e32f-4452-a9ae-bb40bcf3777a). You can use (but not make money with) this music freely, but keep an eye to Beatoven.ai terms of service as they may change in time.
-- All images used in this software are made by generative AI (StableDiffusion, DALL-E) and so (maybe) copyright free.
-- Python code is written both by human and AI, and released under GPL 3.0 license.
-
-Purpose of the software is to entertain and, at best, provide a fun way to understand behavior of bacteria and antibiotics.
-
-Simulations in this game are quite realistic but still influenced by random events for entertainment purposes. They may not always represent real treatment situations or real situations in general.
-
-It is responsibility of the teacher, and an exercise for students, to understand when the outcome of a game can be compared to real events to get a stimulus to understand an study deeper.
-
-Software developer does not assume responsibility for the accuracy of medical information included.
-
-This game can be a support for study but requires the presence and/or explanations of an expert teacher who can benefit from simulations in classroom.
-
-Students approaching this game to gain knowledge must responsibly compare medical information presented in-game with those from accredited or recognized sources.
-
 ## Game Rules
 
 **1. Colored cells are bacteria. Green or purple if resistant to antibiotics:**
@@ -109,6 +78,36 @@ Tip: your medical supervisor is breathing down your neck, waiting for your next 
    - ESC: Restart game.
 
 Good luck in your fight against infection!
+## Disclaimer
+
+This software is provided "as is," without any express or implied warranties of its operation.
+
+Use of this software is at your own risk. Author assumes no responsibility for direct, indirect, incidental, or consequential damages resulting from the use, proper or improper, of this software.
+
+By using this software, you agree to be bound by the terms of this disclaimer.
+
+Source code of this software is distributed under the GPL-3.0 license. Audio effects, images and icons are excluded.
+[GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+Feel free to fork, improve, spread an translate this code as you want within the license.
+
+**Notes:**
+- Audio effects used in this software are from free sources, so they can be considered without a license or under a Fair Use license.
+- Music is generated with Beatoven.ai, under non exclusive music license ("Crabby Cream" - License: 224af568-e32f-4452-a9ae-bb40bcf3777a). You can use (but not make money with) this music freely, but keep an eye to Beatoven.ai terms of service as they may change in time.
+- All images used in this software are made by generative AI (StableDiffusion, DALL-E) and so (maybe) copyright free.
+- Python code is written both by human and AI, and released under GPL 3.0 license.
+
+Purpose of the software is to entertain and, at best, provide a fun way to understand behavior of bacteria and antibiotics.
+
+Simulations in this game are quite realistic but still influenced by random events for entertainment purposes. They may not always represent real treatment situations or real situations in general.
+
+It is responsibility of the teacher, and an exercise for students, to understand when the outcome of a game can be compared to real events to get a stimulus to understand an study deeper.
+
+Software developer does not assume responsibility for the accuracy of medical information included.
+
+This game can be a support for study but requires the presence and/or explanations of an expert teacher who can benefit from simulations in classroom.
+
+Students approaching this game to gain knowledge must responsibly compare medical information presented in-game with those from accredited or recognized sources.
 
 ---
 
@@ -118,37 +117,6 @@ Good luck in your fight against infection!
 Un semplice gioco educazionale per mostrare l'interazione fra antibiotici e batteri.
 
 ![Game Screenshot](img/screenshot.png)
-
-## Disclaimer
-
-Questo software è fornito 'così com'è', senza alcuna garanzia, esplicita o implicita, sul suo funzionamento.
-
-L'uso di questo software è a proprio rischio e pericolo. L'autore non si assume alcuna responsabilità per danni diretti, indiretti, accidentali o consequenziali derivanti dall'uso, proprio o improprio, di questo software.
-
-Continuando a utilizzare questo software, l'utente accetta di essere vincolato dai termini di questo disclaimer.
-
-Il codice sorgente di questo software è distribuito sotto la licenza GPL-3.0, non sono inclusi gli effetti audio, le immagini e le icone:
-[GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-Sentitevi liberi di fare un fork, migliorare, diffondere e tradurre questo software a vostro piacimento entro i termini della licenza.
-
-**Note:**
-- Gli effetti audio utilizzati in questo software provengono da fonti gratuite, e da considerarsi senza licenza sotto una licenza che permette il "Fair Use"
-- La musica è generata con Beatoven.ai ed usata con licenza non esclusiva valida in tutto il mondo. ("Crabby Cream"  license 224af568-e32f-4452-a9ae-bb40bcf3777a). Per quello che mi riguarda, potete usare (non farci i soldi con) questa musica, ma tenete un'occhio sui termini di servizio di Beatoven.ai, dato che potrebbero cambiare nel tempo.
-- Tutte le immagini usate in questo software sono ottenute tramite AI generativa (StableDiffusion, DALL-E) e quindi (probabilmente) senza copyright.
-- Programmato in linguaggio Python da mente umana e intelligenza artificiale, e rilasciato sotto licenza GPL 3.0.
-
-Lo scopo del software è divertire, al massimo fare comprendere in modo divertente il comportamento di batteri e antibiotici.
-
-Le simulazioni in questo gioco sono piuttosto realistiche, ma restano comunque influenzate da eventi casuali (anche per scopo di intrattenimento), e potrebbero non rappresentare sempre situazioni reali di cura, o reali in generale.
-
-È responsabilità del docente, ed un esercizio per lo studente, comprendere quando il risultato di una partita possa essere confrontato con eventi reali, al fine di ricevere uno stimolo ad approfondirli.
-
-Lo sviluppatore del software non si assume la responsabilità per l'accuratezza delle informazioni mediche incluse.
-
-Il gioco può essere un supporto per lo studio, ma necessita della presenza e/o delle spiegazioni di un docente esperto, che può trarne vantaggio per proporre delle simulazioni in aula.
-
-Lo studente che si approccia a questo gioco per ricevere delle nozioni, deve responsabilmente confrontare le informazioni mediche presentate nel gioco con quelle di fonti accreditate o riconosciute.
 
 ## Regole del gioco
 
@@ -221,5 +189,36 @@ Una dritta: il tuo responsabile medico ti è alle calcagna, aspetta solo il tuo 
    - ESC: Riavvia il gioco.
 
 Buona fortuna nella tua lotta contro l'infezione!
+
+## Disclaimer
+
+Questo software è fornito 'così com'è', senza alcuna garanzia, esplicita o implicita, sul suo funzionamento.
+
+L'uso di questo software è a proprio rischio e pericolo. L'autore non si assume alcuna responsabilità per danni diretti, indiretti, accidentali o consequenziali derivanti dall'uso, proprio o improprio, di questo software.
+
+Continuando a utilizzare questo software, l'utente accetta di essere vincolato dai termini di questo disclaimer.
+
+Il codice sorgente di questo software è distribuito sotto la licenza GPL-3.0, non sono inclusi gli effetti audio, le immagini e le icone:
+[GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+Sentitevi liberi di fare un fork, migliorare, diffondere e tradurre questo software a vostro piacimento entro i termini della licenza.
+
+**Note:**
+- Gli effetti audio utilizzati in questo software provengono da fonti gratuite, e da considerarsi senza licenza sotto una licenza che permette il "Fair Use"
+- La musica è generata con Beatoven.ai ed usata con licenza non esclusiva valida in tutto il mondo. ("Crabby Cream"  license 224af568-e32f-4452-a9ae-bb40bcf3777a). Per quello che mi riguarda, potete usare (non farci i soldi con) questa musica, ma tenete un'occhio sui termini di servizio di Beatoven.ai, dato che potrebbero cambiare nel tempo.
+- Tutte le immagini usate in questo software sono ottenute tramite AI generativa (StableDiffusion, DALL-E) e quindi (probabilmente) senza copyright.
+- Programmato in linguaggio Python da mente umana e intelligenza artificiale, e rilasciato sotto licenza GPL 3.0.
+
+Lo scopo del software è divertire, al massimo fare comprendere in modo divertente il comportamento di batteri e antibiotici.
+
+Le simulazioni in questo gioco sono piuttosto realistiche, ma restano comunque influenzate da eventi casuali (anche per scopo di intrattenimento), e potrebbero non rappresentare sempre situazioni reali di cura, o reali in generale.
+
+È responsabilità del docente, ed un esercizio per lo studente, comprendere quando il risultato di una partita possa essere confrontato con eventi reali, al fine di ricevere uno stimolo ad approfondirli.
+
+Lo sviluppatore del software non si assume la responsabilità per l'accuratezza delle informazioni mediche incluse.
+
+Il gioco può essere un supporto per lo studio, ma necessita della presenza e/o delle spiegazioni di un docente esperto, che può trarne vantaggio per proporre delle simulazioni in aula.
+
+Lo studente che si approccia a questo gioco per ricevere delle nozioni, deve responsabilmente confrontare le informazioni mediche presentate nel gioco con quelle di fonti accreditate o riconosciute.
 
 ©2023 Davide Nasato
