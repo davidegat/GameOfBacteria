@@ -15,7 +15,7 @@ An educational simple game to show interaction between antbiotics and bacteria. 
 
    - They replicate during the game and are killed by antibiotics.
 
-**2. White cells are antibiotics. Administer them by pressing 'Antibiotic':**
+**2. White cells are antibiotics. Administer them by pressing 'Antibiotico':**
 
    - You can treat infection only when it starts causing symptoms.
    - Antibiotics are depleted and must be administered regularly.
