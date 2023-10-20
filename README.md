@@ -33,7 +33,7 @@ Windows Binary in English and Italian languages both available in releases secti
 
 ![Game Screenshot](/img/screenshoten5.png)
 
-**4. Even if patient is not infected with a resistant bacteria, you can encounter three levels of difficulty:**
+**4. Even if patient is not infected with a resistant bacterium, you can encounter three levels of difficulty:**
 
    - Easy: patient has a phenomenal immune system.
    - Routine: immune system works, but don't underestimate anything.
