@@ -1,11 +1,11 @@
 # GameOfBacteria
 An educational simple game to show interaction between antbiotics and bacteria. 
 Windows Binary in English and Italian language both available in releases section.
+Also sources in both language available.
 
 <code>git clone https://github.com/davidegat/GameOfBacteria.git</code>
 
-[**README IN ITALIANO**](#italiano) (and more screenshots...)
-
+[**README IN ITALIANO**](#italiano)
 # Bacteria vs. Antibiotics
 
 ![Game Screenshot](/img/screenshoten.png)
@@ -39,6 +39,8 @@ Windows Binary in English and Italian language both available in releases sectio
    - Easy: patient has a phenomenal immune system.
    - Routine: immune system works, but don't underestimate anything.
    - Difficult: patient is immunosuppressed; infection will be tough.
+
+![Game Screenshot](/img/screenshoten6.png)
 
 **5. Be mindful of time; these circumstances can make you lose points:**
 
