@@ -3,7 +3,7 @@ An educational simple game to show interaction between antbiotics and bacteria. 
 
 <code>git clone https://github.com/davidegat/GameOfBacteria.git</code>
 
-[**README IN ITALIANO**](#italiano)
+[**README IN ITALIANO**](#italiano) (and more screenshots...)
 
 # Bacteria vs. Antibiotics
 
