@@ -81,6 +81,8 @@ Tip: your medical supervisor is breathing down your neck, waiting for your next 
    - Antibiotic administration.
    - Each duplication of a resistant or non-resistant bacterium.
    - If you are fired by medical supervisor.
+   - 
+![Game Screenshot](/img/screenshoten4.png)
 
 **Keyboard Shortcuts:**
 
