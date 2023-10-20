@@ -59,6 +59,8 @@ If resistance develops, you must have enough points to sustain the final challen
 
 Tip: your medical supervisor is breathing down your neck, waiting for your next mistake!
 
+![Game Screenshot](/img/screenshoten3.png)
+
 ## Scoring
 
 **You receive points for:**
