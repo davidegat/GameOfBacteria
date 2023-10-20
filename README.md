@@ -118,6 +118,8 @@ Students approaching this game to gain knowledge must responsibly compare medica
 # Batteri contro Antibiotici
 Un semplice gioco educazionale per mostrare l'interazione fra antibiotici e batteri. La versione per Windows è disponibile nelle releases.
 
+<code>git clone https://github.com/davidegat/GameOfBacteria.git</code>
+
 ![Game Screenshot](img/screenshot.png)
 
 ## Regole del gioco
