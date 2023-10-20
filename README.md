@@ -15,7 +15,7 @@ The use of this software is at your own risk. The author assumes no responsibili
 
 By continuing to use this software, you agree to be bound by the terms of this disclaimer.
 
-The source code of this software is distributed under the GPL-3.0 license, excluding audio effects and icons:
+The source code of this software is distributed under the GPL-3.0 license, excluding audio effects, images and icons:
 [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 Feel free to fork, improve, spread an translate this code as you want within the license.
@@ -127,7 +127,7 @@ L'uso di questo software è a proprio rischio e pericolo. L'autore non si assume
 
 Continuando a utilizzare questo software, l'utente accetta di essere vincolato dai termini di questo disclaimer.
 
-Il codice sorgente di questo software è distribuito sotto la licenza GPL-3.0, non sono inclusi gli effetti audio e le icone:
+Il codice sorgente di questo software è distribuito sotto la licenza GPL-3.0, non sono inclusi gli effetti audio, le immagini e le icone:
 [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 Sentitevi liberi di fare un fork, migliorare, diffondere e tradurre questo software a vostro piacimento entro i termini della licenza.
