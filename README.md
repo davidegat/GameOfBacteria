@@ -112,6 +112,7 @@ Good luck in your fight against infection!
 **README (Italian)**
 
 # Batteri contro Antibiotici
+Un semplice gioco educazionale per mostrare l'interazione fra antibiotici e batteri.
 
 ![Game Screenshot](img/screenshot.png)
 
