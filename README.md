@@ -9,7 +9,7 @@ An educational simple game to show interaction between antbiotics and bacteria.
 
 ## Game Rules
 
-**1. Colored cells are bacteria. Green or purple if resistant to antibiotics:**
+**1. Green cells are bacteria. Purple if resistant to antibiotics:**
 
    - They replicate during the game and are killed by antibiotics.
 
@@ -120,7 +120,7 @@ Un semplice gioco educazionale per mostrare l'interazione fra antibiotici e batt
 
 ## Regole del gioco
 
-**1. Le celle colorate sono batteri. Verdi, o viola se resistenti agli antibiotici:**
+**1. Le celle verdi sono batteri. Viola se resistenti agli antibiotici:**
 
    - Si duplicano durante il gioco e vengono uccisi dall'antibiotico.
 
