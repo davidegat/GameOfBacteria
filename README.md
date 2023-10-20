@@ -144,11 +144,15 @@ Un semplice gioco educazionale per mostrare l'interazione fra antibiotici e batt
    - Se somministri antibiotici per troppi giorni consecutivi, svilupperai una resistenza.
    - Hai il 5% di possibilità di ricoverare un paziente con una resistenza, ma anche la possibilità di ricevere dei bonus casuali.
 
+![Game Screenshot](/img/screenshot3.png)
+
 **4. Anche se il paziente non è infetto da un battere resistente, puoi incontrare tre livelli di difficoltà:**
 
    - Facile: La persona ha un sistema immunitario fenomenale!
    - Routine: Il sistema immunitario funziona, ma non sottovalutare niente!
    - Difficile: La persona è immunodepressa, l'infezione sarà tosta!
+
+![Game Screenshot](/img/screenshot1.png)
 
 **5. Fai attenzione al tempo; queste circostanze possono farti perdere punti:**
 
@@ -160,10 +164,14 @@ Dovrai decidere quando iniziare la terapia e con che frequenza continuarla.
 
 **Attenzione: una resistenza richiede più antibiotici, ma potresti uccidere il paziente!**
 
+![Game Screenshot](/img/screenshot2.png)
+
 I batteri si passeranno la resistenza tramite i loro plasmidi.
 Se si sviluppa una resistenza, dovrai avere abbastanza punti per sostenere la sfida finale, che sarà SOLO contro batteri resistenti.
 
 Una dritta: il tuo responsabile medico ti è alle calcagna, aspetta solo il tuo ennesimo errore per licenziarti!
+
+![Game Screenshot](/img/screenshot4.png)
 
 ## Punteggio
 
@@ -185,6 +193,8 @@ Una dritta: il tuo responsabile medico ti è alle calcagna, aspetta solo il tuo 
    - Alla somministrazione dell'antibiotico.
    - Ad ogni duplicazione di un battere resistente o meno.
    - Se si viene licenziati dal responsabile medico.
+
+![Game Screenshot](/img/screenshot5.png)
 
 **Scorciatoie da tastiera:**
 
