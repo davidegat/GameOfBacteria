@@ -1,6 +1,5 @@
 # GameOfBacteria
 An educational simple game to show interaction between antbiotics and bacteria.
-Certainly, here are the README files for your software in both English and Italian:
 
 **SCROLL DOWN FOR ITALIAN**
 
