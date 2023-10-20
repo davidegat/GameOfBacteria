@@ -50,7 +50,9 @@ Also sources in both language available.
 
 You must decide when to start treatment and how frequently to continue it.
 
-**Caution: Resistance requires more antibiotics, but you might kill the patient!**
+**Caution: Resistance requires more antibiotics, but it may kill the patient!**
+
+![Game Screenshot](/img/screenshoten2.png)
 
 Bacteria will pass resistance through their plasmids.
 If resistance develops, you must have enough points to sustain the final challenge, which will be ONLY against resistant bacteria.
