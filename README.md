@@ -1,7 +1,7 @@
 # GameOfBacteria
 An educational simple game to show interaction between antbiotics and bacteria.
 
-[**CLICCA QUI PER L'ITALIANO**](#italiano)
+[**README IN ITALIANO**](#italiano)
 
 # Bacteria vs. Antibiotics
 
