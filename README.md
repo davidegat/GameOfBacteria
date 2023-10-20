@@ -48,7 +48,7 @@ Students approaching this game to gain knowledge must responsibly compare medica
 
    - You can treat infection only when it starts causing symptoms.
    - Antibiotics are depleted and must be administered regularly.
-   - Patient dies if he gess too many antibiotics.
+   - Patient dies if he gets too many antibiotics.
    - If antibiotics run out, bacteria become resistant.
 
 **3. You can cause resistance by pressing 'Resistenza':**
