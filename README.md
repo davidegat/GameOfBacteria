@@ -18,10 +18,13 @@ By continuing to use this software, you agree to be bound by the terms of this d
 The source code of this software is distributed under the GPL-3.0 license, excluding audio effects and icons:
 [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
+Feel free to fork, improve, spread an translate this code as you want within the license.
+
 **Notes:**
-- The audio effects used in this software come from free sources found on YouTube, without a license or under a Creative Commons license (creativecommons.org).
-- The music is generated with Beatoven.ai and used with a valid worldwide license.
-- Programmed in Python.
+- Audio effects used in this software come from free sources, so they are to be considered without a license or under a Fair Use license.
+- Music is generated with Beatoven.ai, and under non exclusive music license ("Crabby Cream"  license 224af568-e32f-4452-a9ae-bb40bcf3777a). You can use this music by my side, but keep an eye to Beatoven.ai terms of service as they may change in time.
+- All images used in this software are made by generative AI (StableDiffusion, DALL-E) and so (maybe) copyright free.
+- Python code is written both by human and AI, and released under GPL 3.0 license.
 
 The purpose of the software is to entertain and, at best, provide a fun way to understand the behavior of bacteria and antibiotics.
 
@@ -127,10 +130,13 @@ Continuando a utilizzare questo software, l'utente accetta di essere vincolato d
 Il codice sorgente di questo software è distribuito sotto la licenza GPL-3.0, non sono inclusi gli effetti audio e le icone:
 [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
+Sentitevi liberi di fare un fork, migliorare, diffondere e tradurre questo software a vostro piacimento entro i termini della licenza.
+
 **Note:**
-- Gli effetti audio utilizzati in questo software provengono da fonti gratuite reperite su YouTube, senza licenza o sotto licenza Creative Commons (creativecommons.org).
-- La musica è generata con Beatoven.ai ed usata con regolare licenza valida in tutto il mondo.
-- Programmato in linguaggio Python.
+- Gli effetti audio utilizzati in questo software provengono da fonti gratuite, e da considerarsi senza licenza sotto una licenza che permette il "Fair Use"
+- La musica è generata con Beatoven.ai ed usata con licenza non esclusiva valida in tutto il mondo. ("Crabby Cream"  license 224af568-e32f-4452-a9ae-bb40bcf3777a). Per quello che mi riguarda, potete usare questa musica, ma tenete un'occhio sui termini di servizio di Beatoven.ai, dato che potrebbero cambiare nel tempo.
+- Tutte le immagini usate in questo software sono ottenute tramite AI generativa (StableDiffusion, DALL-E) e quindi (probabilmente) senza copyright.
+- Programmato in linguaggio Python da mente umana e intelligenza artificiale, e rilasciato sotto licenza GPL 3.0.
 
 Lo scopo del software è divertire, al massimo fare comprendere in modo divertente il comportamento di batteri e antibiotici.
 
