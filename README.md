@@ -32,6 +32,8 @@ Windows Binary in English and Italian language both available in releases sectio
    - If you administer antibiotics for too many consecutive days, you will develop resistance.
    - You have a 5% chance of curing a patient with resistance but also a chance to receive random bonuses.
 
+![Game Screenshot](/img/screenshoten5.png)
+
 **4. Even if patient is not infected with a resistant bacteria, you can encounter three levels of difficulty:**
 
    - Easy: patient has a phenomenal immune system.
