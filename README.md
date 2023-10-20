@@ -11,32 +11,32 @@ An educational simple game to show interaction between antbiotics and bacteria.
 
 This software is provided "as is," without any express or implied warranties of its operation.
 
-The use of this software is at your own risk. The author assumes no responsibility for direct, indirect, incidental, or consequential damages resulting from the use, proper or improper, of this software.
+Use of this software is at your own risk. Author assumes no responsibility for direct, indirect, incidental, or consequential damages resulting from the use, proper or improper, of this software.
 
-By continuing to use this software, you agree to be bound by the terms of this disclaimer.
+By using this software, you agree to be bound by the terms of this disclaimer.
 
-The source code of this software is distributed under the GPL-3.0 license, excluding audio effects, images and icons:
+Source code of this software is distributed under the GPL-3.0 license. Audio effects, images and icons are excluded.
 [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 Feel free to fork, improve, spread an translate this code as you want within the license.
 
 **Notes:**
-- Audio effects used in this software come from free sources, so they are to be considered without a license or under a Fair Use license.
-- Music is generated with Beatoven.ai, and under non exclusive music license ("Crabby Cream"  license 224af568-e32f-4452-a9ae-bb40bcf3777a). You can use this music by my side, but keep an eye to Beatoven.ai terms of service as they may change in time.
+- Audio effects used in this software are from free sources, so they can be considered without a license or under a Fair Use license.
+- Music is generated with Beatoven.ai, under non exclusive music license ("Crabby Cream" - License: 224af568-e32f-4452-a9ae-bb40bcf3777a). You can use (but not make money with) this music freely, but keep an eye to Beatoven.ai terms of service as they may change in time.
 - All images used in this software are made by generative AI (StableDiffusion, DALL-E) and so (maybe) copyright free.
 - Python code is written both by human and AI, and released under GPL 3.0 license.
 
-The purpose of the software is to entertain and, at best, provide a fun way to understand the behavior of bacteria and antibiotics.
+Purpose of the software is to entertain and, at best, provide a fun way to understand behavior of bacteria and antibiotics.
 
-The simulations in this game are quite realistic but are still influenced by random events (for entertainment purposes). They may not always represent real treatment situations or real situations in general.
+Simulations in this game are quite realistic but still influenced by random events for entertainment purposes. They may not always represent real treatment situations or real situations in general.
 
-It is responsibility of the teacher, and an exercise for students, to understand when the outcome of a game can be compared to real events to receive a stimulus to delve deeper.
+It is responsibility of the teacher, and an exercise for students, to understand when the outcome of a game can be compared to real events to get a stimulus to understand an study deeper.
 
-Software developer does not assume responsibility for the accuracy of the medical information included.
+Software developer does not assume responsibility for the accuracy of medical information included.
 
-The game can be a support for study but requires the presence and/or explanations of an expert teacher who can benefit from proposing simulations in the classroom.
+This game can be a support for study but requires the presence and/or explanations of an expert teacher who can benefit from simulations in classroom.
 
-Students approaching this game to gain knowledge must responsibly compare the medical information presented in the game with those from accredited or recognized sources.
+Students approaching this game to gain knowledge must responsibly compare medical information presented in-game with those from accredited or recognized sources.
 
 ## Game Rules
 
@@ -60,7 +60,7 @@ Students approaching this game to gain knowledge must responsibly compare the me
    - If you administer antibiotics for too many consecutive days, you will develop resistance.
    - You have a 5% chance of curing a patient with resistance but also a chance to receive random bonuses.
 
-**4. Even if the patient is not infected with a resistant bacterium, you can encounter three levels of difficulty:**
+**4. Even if patient is not infected with a resistant bacteria, you can encounter three levels of difficulty:**
 
    - Easy: patient has a phenomenal immune system.
    - Routine: immune system works, but don't underestimate anything.
@@ -96,17 +96,17 @@ Tip: your medical supervisor is breathing down your neck, waiting for your next 
        - Risk of sepsis.
        - Overusing antibiotics.
        - Taking too long to cure patient.
-       - Administering the wrong therapy: this happens if the treatment is too long (red cells).
+       - Administering the wrong therapy: this happens if treatment is too long (red cells).
    - Patient's death.
    - Antibiotic administration.
    - Each duplication of a resistant or non-resistant bacterium.
-   - If you are fired by the medical supervisor.
+   - If you are fired by medical supervisor.
 
 **Keyboard Shortcuts:**
 
    - ENTER: Administer a dose of antibiotic.
    - SPACE: Develop resistance.
-   - ESC: Restart the game.
+   - ESC: Restart game.
 
 Good luck in your fight against infection!
 
@@ -134,7 +134,7 @@ Sentitevi liberi di fare un fork, migliorare, diffondere e tradurre questo softw
 
 **Note:**
 - Gli effetti audio utilizzati in questo software provengono da fonti gratuite, e da considerarsi senza licenza sotto una licenza che permette il "Fair Use"
-- La musica è generata con Beatoven.ai ed usata con licenza non esclusiva valida in tutto il mondo. ("Crabby Cream"  license 224af568-e32f-4452-a9ae-bb40bcf3777a). Per quello che mi riguarda, potete usare questa musica, ma tenete un'occhio sui termini di servizio di Beatoven.ai, dato che potrebbero cambiare nel tempo.
+- La musica è generata con Beatoven.ai ed usata con licenza non esclusiva valida in tutto il mondo. ("Crabby Cream"  license 224af568-e32f-4452-a9ae-bb40bcf3777a). Per quello che mi riguarda, potete usare (non farci i soldi con) questa musica, ma tenete un'occhio sui termini di servizio di Beatoven.ai, dato che potrebbero cambiare nel tempo.
 - Tutte le immagini usate in questo software sono ottenute tramite AI generativa (StableDiffusion, DALL-E) e quindi (probabilmente) senza copyright.
 - Programmato in linguaggio Python da mente umana e intelligenza artificiale, e rilasciato sotto licenza GPL 3.0.
 
