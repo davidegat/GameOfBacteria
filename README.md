@@ -1,5 +1,5 @@
 # GameOfBacteria
-An educational simple game to show interaction between antbiotics and bacteria. 
+An educational simple game in Italian/English that simulates interaction between antbiotics and bacteria. 
 Windows Binary in English and Italian languages both available in releases section. Sources in both languages available.
 
 <code>git clone https://github.com/davidegat/GameOfBacteria.git</code>
@@ -126,7 +126,7 @@ Students approaching this game to gain knowledge must responsibly compare medica
 <a name="italiano"></a>
 
 # Batteri contro Antibiotici
-Un semplice gioco educazionale per mostrare l'interazione fra antibiotici e batteri. La versione per Windows è disponibile in italiano e inglese nella sezione releases.
+Un semplice gioco educazionale, in italiano e inglese, che simula l'interazione fra antibiotici e batteri. La versione per Windows è disponibile in italiano e inglese nella sezione releases.
 
 <code>git clone https://github.com/davidegat/GameOfBacteria.git</code>
 
