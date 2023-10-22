@@ -11,11 +11,11 @@ Windows Binary in English and Italian languages both available in releases secti
 
 ## Game Rules
 
-**1. Green cells are bacteria. Purple if resistant to antibiotics:**
+**1. ![Game Screenshot](/img/bacteria.png) Green cells are bacteria. ![Game Screenshot](/img/resistent.png) Purple if resistant to antibiotics:**
 
    - They replicate during the game and are killed by antibiotics.
 
-**2. White cells are antibiotics. Administer them by pressing 'Antibiotic' (or Enter key):**
+**2. ![Game Screenshot](/img/antibiotic.png) White cells are antibiotics. Administer them by pressing 'Antibiotic' (or Enter key):**
 
    - You can treat infection only when it starts causing symptoms.
    - Antibiotics are depleted and must be administered regularly.
@@ -27,7 +27,7 @@ Windows Binary in English and Italian languages both available in releases secti
    - Resistent bacteria require higher antibiotic doses.
    - They try not to be reached by antibiotics.
    - If a resistant bacterium dies, it deactivates an antibiotic molecule.
-   - Deactivated antibiotics turn yellow and are destroyed.
+   - ![Game Screenshot](/img/fool.png) Deactivated antibiotics turn yellow and are destroyed.
    - If you administer antibiotics for too many consecutive days, you will develop resistance.
    - You have a 5% chance of curing a patient with resistance but also a chance to receive random bonuses.
 
@@ -134,11 +134,11 @@ Un semplice gioco educazionale, in italiano e inglese, che simula l'interazione 
 
 ## Regole del gioco
 
-**1. Le celle verdi sono batteri. Viola se resistenti agli antibiotici:**
+**1. ![Game Screenshot](/img/bacteria.png) Le celle verdi sono batteri. ![Game Screenshot](/img/resistent.png) Viola se resistenti agli antibiotici:**
 
    - Si duplicano durante il gioco e vengono uccisi dall'antibiotico.
 
-**2. Le celle bianche sono antibiotici. Somministrali premendo 'Antibiotico':**
+**2. ![Game Screenshot](/img/antibiotic.png) Le celle bianche sono antibiotici. Somministrali premendo 'Antibiotico':**
 
    - Puoi curare l'infezione solo quando inizia a causare sintomi.
    - L'antibiotico viene eliminato, va somministrato regolarmente.
@@ -150,7 +150,7 @@ Un semplice gioco educazionale, in italiano e inglese, che simula l'interazione 
    - I batteri necessitano maggiori dosi di antibiotico.
    - Cercano di non farsi raggiungere dall'antibiotico.
    - Se un battere resistente muore, disattiva una molecola di antibiotico.
-   - Gli antibiotici disattivati diventano gialli e vengono distrutti.
+   - ![Game Screenshot](/img/fool.png) Gli antibiotici disattivati diventano gialli e vengono distrutti.
    - Se somministri antibiotici per troppi giorni consecutivi, svilupperai una resistenza.
    - Hai il 5% di possibilità di ricoverare un paziente con una resistenza, ma anche la possibilità di ricevere dei bonus casuali.
 
