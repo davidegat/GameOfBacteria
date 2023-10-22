@@ -159,7 +159,7 @@ class GridApp:
         )
         self.add_black_cells_button.pack(side=tk.LEFT, ipady=5)
         self.resistance_button = tk.Button(
-            root, text=" Resistence ", command=self.add_blue_cell, font=("DejaVu Sans Mono", 13, "bold"), background="#d3c8e6"
+            root, text=" resistance ", command=self.add_blue_cell, font=("DejaVu Sans Mono", 13, "bold"), background="#d3c8e6"
         )
         self.resistance_button.pack(side=tk.LEFT, ipady=5)
         
@@ -354,7 +354,7 @@ class GridApp:
                         self.blinking = True
                         self.blink_symptoms_label()
                     self.symptoms_label.config(
-                        text="Oops... resistence building up!", fg="red"
+                        text="Oops... resistance building up!", fg="red"
                     )
                     self.cough_sound.play()
 
@@ -973,7 +973,7 @@ class GridApp:
         self.score += 4000
         self.update_count_label()
         if self.resistence:
-            self.resmes = "Congratulations, you defeated resistence! (+5000 punti)\n"
+            self.resmes = "Congratulations, you defeated resistance! (+5000 punti)\n"
             self.score += 5000 
         health_window = tk.Toplevel(self.root, background="#c299c2")
         health_window.title("")
