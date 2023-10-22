@@ -7,7 +7,7 @@ Windows Binary in English and Italian languages both available in releases secti
 [**README IN ITALIANO**](#italiano)
 # Bacteria vs. Antibiotics
 
-![Game Screenshot](/img/screenshoten.png)
+![Game Screenshot](/img/gameplay.gif)
 
 ## Game Rules
 
@@ -130,7 +130,7 @@ Un semplice gioco educazionale, in italiano e inglese, che simula l'interazione 
 
 <code>git clone https://github.com/davidegat/GameOfBacteria.git</code>
 
-![Game Screenshot](img/screenshot.png)
+![Game Screenshot](img/gameplay.gif)
 
 ## Regole del gioco
 
