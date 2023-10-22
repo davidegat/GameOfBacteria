@@ -159,7 +159,7 @@ class GridApp:
         )
         self.add_black_cells_button.pack(side=tk.LEFT, ipady=5)
         self.resistance_button = tk.Button(
-            root, text=" resistance ", command=self.add_blue_cell, font=("DejaVu Sans Mono", 13, "bold"), background="#d3c8e6"
+            root, text=" Resistance ", command=self.add_blue_cell, font=("DejaVu Sans Mono", 13, "bold"), background="#d3c8e6"
         )
         self.resistance_button.pack(side=tk.LEFT, ipady=5)
         
