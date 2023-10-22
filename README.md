@@ -22,7 +22,7 @@ Windows Binary in English and Italian languages both available in releases secti
    - Patient dies if he gets too many antibiotics.
    - If antibiotics run out, bacteria become resistant.
 
-**3. You can cause resistance by pressing 'Resistence' (or Space Key):**
+**3. You can cause resistance by pressing 'Resistance' (or Space Key):**
 
    - Resistent bacteria require higher antibiotic doses.
    - They try not to be reached by antibiotics.
